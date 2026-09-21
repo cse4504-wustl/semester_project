@@ -133,7 +133,7 @@ Review the story written by the teammate to your left against the checklist belo
 - [ ] No duplicate stories or rules, and every US and BR ID is unique.
 - [ ] Exactly three stories are in section 2 (Tracer Bullet Stories), and together they form one coherent path.
 - [ ] Each tracer-bullet story has at least two testable acceptance criteria: a normal case and a failure or edge case.
-- [ ] Each tracer-bullet story links its business rules, and every linked ID exists in section 4 (Business Rules).
+- [ ] Each tracer-bullet story links its business rules, and every linked ID exists in the Business Rules.
 - [ ] Business rules are numbered, testable, and stated separately from the stories.
 - [ ] Contradictions between drafts are resolved or listed under Open Questions.
 
