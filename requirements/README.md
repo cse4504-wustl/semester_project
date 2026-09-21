@@ -151,8 +151,6 @@ git commit -m "Add merged team requirements with tracer-bullet stories"
 git push origin main
 ```
 
-**GitHub web editor:** open the `requirements` folder in your repository, choose **Add file**, then **Create new file** (or **Upload files**), name it `requirements.md`, paste the content, and commit.
-
 Then the other two teammates run `git pull` and open `requirements/requirements.md` on GitHub to confirm it renders with headings, lists, and your three expanded stories.
 
 ---
