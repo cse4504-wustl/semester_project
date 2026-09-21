@@ -43,7 +43,7 @@ Claude is good at the mechanical part of merging: finding overlapping stories an
 1. Open Claude in a new chat.
 2. Copy the prompt below into the message box.
 3. Attach the unique drafts of your requirements to the chat. Then send the message.
-4. Read both parts of the reply. If Claude asks a question, answer briefly.
+4. Read the reply. If Claude asks a question, answer briefly.
 5. If something is wrong, tell Claude in the same chat what to fix, for example: "US-04 from Draft 2 is missing from the merged file. Add it and update the report."
 6. Check the result with the verification checklist below.
 7. Copy **Part A only** into `requirements/requirements.md`. Keep Part B (the merge report) for reference. It does **not** go in the repository.
